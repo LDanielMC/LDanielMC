@@ -24,4 +24,4 @@ Desarrollador Full Stack en Cuernavaca, México. Construyo sistemas web, APIs RE
 
 ## Contacto
 
-[LinkedIn](https://linkedin.com/in/luis-danielmoctezuma-193622240) · luisd.m.c2002@gmail.com
+[LinkedIn](https://www.linkedin.com/in/luis-daniel-moctezuma-193622240/) · luisd.m.c2002@gmail.com
